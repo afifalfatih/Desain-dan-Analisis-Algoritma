@@ -1,0 +1,7 @@
+1) Inisialisasi:
+Tentukan nilai jari-jari r.
+Tentukan nilai tinggi t.
+2) Hitung Volume:
+Gunakan rumus volume kerucut: ( \text{volume} = \frac{1}{3} \times \pi \times r^2 \times t ).
+3) Output:
+Cetak hasil volume kerucut.

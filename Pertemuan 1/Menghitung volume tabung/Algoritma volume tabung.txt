@@ -1,0 +1,7 @@
+1) Inisialisasi:
+Tentukan nilai jari-jari r = 3.
+Tentukan nilai tinggi t = 5.
+2) Hitung Volume:
+Gunakan rumus volume tabung: ( \text{volume} = \pi \times r^2 \times t ).
+3) Output:
+Cetak hasil volume tabung.

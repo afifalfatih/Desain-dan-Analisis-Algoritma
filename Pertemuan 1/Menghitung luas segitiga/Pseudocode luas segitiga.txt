@@ -1,0 +1,9 @@
+// Inisialisasi variabel
+  a = 25
+  t = 30
+
+  // Hitung luas segitiga
+  luas = 0.5 * a * t
+  
+  // Cetak hasil
+  Cetak "Luas segitiga dengan alas", a, "dan tinggi", t, "adalah:", luas

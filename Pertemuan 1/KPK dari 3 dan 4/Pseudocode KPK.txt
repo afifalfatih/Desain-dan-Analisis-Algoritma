@@ -1,0 +1,8 @@
+a = 3
+b = 4
+kpk = max(a, b)
+  
+Selama (kpk % a != 0) atau (kpk % b != 0)
+kpk = kpk + 1
+
+Cetak "KPK dari", a, "dan", b, "adalah:", kpk

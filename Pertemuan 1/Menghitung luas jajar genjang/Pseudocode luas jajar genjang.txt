@@ -1,0 +1,9 @@
+// Inisialisasi variabel
+  a = 5
+  t = 3
+  
+  // Hitung luas jajar genjang
+  luas = a * t
+  
+  // Cetak hasil
+  Cetak "Luas jajar genjang dengan panjang alas", a, "dan tinggi", t, "adalah:", luas

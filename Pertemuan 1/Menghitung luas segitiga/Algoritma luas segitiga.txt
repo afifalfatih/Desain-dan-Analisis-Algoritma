@@ -1,0 +1,7 @@
+1)	Inisialisasi:
+Tentukan nilai alas segitiga a = 25.
+Tentukan nilai tinggi segitiga t = 30.
+2) Hitung Luas:
+Gunakan rumus luas segitiga: ( \text{luas} = \frac{1}{2} \times a \times t ).
+3) Output:
+Cetak hasil luas segitiga.

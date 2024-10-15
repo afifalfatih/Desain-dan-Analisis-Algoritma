@@ -1,0 +1,4 @@
+1) inisialisasikan 3 = a dan 4 = b
+2) Lipatkan bilangan 3 dan 4 dengan bilangan masing-masing
+3) Ulangi sampai kedua bilangan mencapai angka yang sama
+4) Cetak nilai KPK

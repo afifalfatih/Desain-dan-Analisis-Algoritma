@@ -1,0 +1,10 @@
+// Inisialisasi variabel
+  r = 3
+  t = 5
+  π = 3.14
+  
+  // Hitung volume kerucut
+  volume = (1/3) * π * r * r * t
+  
+  // Cetak hasil
+  Cetak "Volume kerucut dengan jari-jari", r, "dan tinggi", t, "adalah:", volume

@@ -1,0 +1,10 @@
+// Inisialisasi variabel
+  r = 3
+  t = 5
+  π = 3.14
+  
+  // Hitung volume tabung
+  volume = π * r * r * t
+  
+  // Cetak hasil
+  Cetak "Volume tabung dengan jari-jari", r, "dan tinggi", t, "adalah:", volume

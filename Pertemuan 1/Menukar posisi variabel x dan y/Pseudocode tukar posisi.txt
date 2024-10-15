@@ -1,0 +1,15 @@
+Function tukar(x, y)
+    // Inisialisasi variabel
+    temp = x  // Pindahkan x (manggis) ke piring 3 (kosong)
+    x = y     // Pindahkan y (pisang) ke piring 1
+    y = kosong  // Pindahkan kosong (manggis) ke piring 2
+    
+    Return x, y
+End Function
+
+// Panggil fungsi dengan nilai "manggis" dan "pisang"
+x = "manggis"
+y = "pisang"
+(x, y) = swap(x, y)
+Print "Setelah ditukar, piring 1 berisi:", x
+Print "Setelah ditukar, piring 2 berisi:", y

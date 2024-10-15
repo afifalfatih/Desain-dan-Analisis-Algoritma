@@ -1,0 +1,7 @@
+1) Inisialisasi:
+Tentukan nilai panjang alas a = 5.
+Tentukan nilai tinggi t = 3.
+2) Hitung Luas:
+Gunakan rumus luas jajar genjang: ( \text{luas} = a \times t ).
+3) Output:
+Cetak hasil luas jajar genjang.

@@ -1,0 +1,11 @@
+1) Inisialisasi
+x = “manggis” (di piring 1)
+y = “pisang” (di piring 2)
+temp = piring 3 (kosong)
+2) Proses Penukaran
+Pindahkan x ke temp.
+Pindahkan y ke piring 1.
+Pindahkan temp ke piring 2.
+3) Hasil
+x sekarang berada di piring 2.
+y sekarang berada di piring 1.
